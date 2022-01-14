@@ -1,0 +1,7 @@
+___________To Run classification models_______________
+
+python project.py
+
+___________To run Web Scraping and sentiment analysis__________
+
+python ws_sa.py 
